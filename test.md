@@ -6,3 +6,4 @@ Master Branch
 Bug Fix Branch
 
 - Changes for commit 1 (Day 4)
+- Changes for commit 2 (Day 6)
