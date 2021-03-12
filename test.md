@@ -2,3 +2,8 @@ Master Branch
 
 - Changes for commit 1 (Day 1)
 - Changes for commit 2 (Day 2)
+
+
+RC Feature 1
+
+- Changes for rc commit 1 (Day 3)
